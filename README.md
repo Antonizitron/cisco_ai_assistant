@@ -40,7 +40,9 @@ This tool is built to inspire experimentation and future development in the spac
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
-3. Install dependencies:
+3. Create file configuration.json by coping configuration.json.example and fill-in API key for using Gemini
+
+4. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
